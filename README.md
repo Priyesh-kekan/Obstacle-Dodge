@@ -23,8 +23,8 @@ In **Obstacle-Dodge**, your goal is to survive as long as possible while navigat
 - Simple and intuitive WASD controls.  
 
 ### 🛠 Technologies Used
-- Unity / Python / Pygame (replace with your tech)  
-- Libraries for graphics, physics, or input handling (if any)  
+- **Engine:** Unity  
+- **Language:** C#
 
 ### 📈 Objective
 Survive as long as possible without hitting obstacles. The game tests your reflexes and movement strategy.  
