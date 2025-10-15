@@ -30,4 +30,6 @@ In **Obstacle-Dodge**, your goal is to survive as long as possible while navigat
 Survive as long as possible without hitting obstacles. The game tests your reflexes and movement strategy.  
 
 ### 📸 Screenshot / GIF
-*(Add a screenshot or GIF of gameplay here to make your README visually appealing)*  
+![Gameplay Screenshot](Assets/Screenshots/Gameplay1.png)
+![Gameplay Screenshot](Assets/Screenshots/Gameplay2.png)
+![Gameplay Screenshot](Assets/Screenshots/Gameplay3.png)
